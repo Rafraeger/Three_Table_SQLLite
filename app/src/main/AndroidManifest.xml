@@ -2,8 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.hellohasan.sqlite_multiple_three_tables_crud">
 
-    //Nama : Rafif Syari Hidayah
-    //Nim : 41522010022
+    <!--Nama : Rafif Syari Hidayah -->
+    <!--Nim : 41522010022 -->
     <application
         android:name=".util.MyApp"
         android:allowBackup="true"
